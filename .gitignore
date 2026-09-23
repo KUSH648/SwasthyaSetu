@@ -24,6 +24,9 @@ build/
 # Misc
 tmp/
 *.txt
+!requirements.txt
+!backend/requirements.txt
+!*/requirements.txt
 .gemini/
 .agents/
 .agent/
