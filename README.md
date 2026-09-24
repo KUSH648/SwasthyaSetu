@@ -31,7 +31,7 @@
 
 ## 🚀 Live Demo & Access
 
-* **Live Frontend**: [https://swasthya-setu-eta.vercel.app](https://swasthya-setu-eta.vercel.app)
+* **Live Frontend**: [https://swasthya-setu-eta.vercel.app](https://swasthyasetu-blue.vercel.app/)
 
 ### Demo Role Access:
 * **Patient Portal**: Register or login as a **Patient** to run AI triage, upload medical reports, and book appointments.
